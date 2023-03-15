@@ -1,8 +1,8 @@
 👦🏽 Sobre mim:
-* 👋 Me chamo Italo Nascimento, tenho 21 anos
+* 👋 Me chamo Italo Nascimento, tenho 22 anos
 * 📌 De Minas Gerais, Brasil
-* 💼 Atualmente sou Desenvolvedor de Sistemas Jr(Backend)
-* 🔎 Curiosidades: Amante de vôlei, musica, mercado financeiro
+* 💼 Atualmente sou Desenvolvedor de Sistemas (Backend)
+* 🔎 Curiosidades: Amante de vôlei, musica, boxe, mercado financeiro
 
 ⚡ Habilidades
 * React   
